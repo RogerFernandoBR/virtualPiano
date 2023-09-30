@@ -4,7 +4,7 @@ As teclas podem ser clicadas utilizando o teclado, ou sua respectiva tecla no te
 
 A aplicação foi preparada para teclados ABNT2. Entretanto é pode facilmente ser ajustada para outros modelos de teclados.
 
-Veja a demonstração em: 
+Veja a demonstração em: https://virtual-piano-mu.vercel.app/
 
 ###
 
